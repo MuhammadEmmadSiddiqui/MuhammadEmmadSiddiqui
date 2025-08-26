@@ -67,7 +67,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/muhammademmadsiddiqui/count.svg?"  />
+  <img src="https://profile-counter.deno.dev/yourkey/count.svg" alt="Visitor's Count"  />
 </div>
 
 ###
