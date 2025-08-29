@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Emmad and I'm an AI enthusiast working on explainibility of AI systems and uncertainity quantification</h2>
+<h2 align="left">Hi I'm Emmad an AI enthusiast working on explainibility of AI systems and uncertainity quantification</h2>
 
 ###
 
