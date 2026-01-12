@@ -4,7 +4,7 @@ Hi 🤗
 
 My name is Muhammad Emmad Siddiqui.
 
-MS Student @ FAST NUCES
+<strong>AI Researcher</strong> | MS in Data Science from NUCES
 
 </h2>
 
