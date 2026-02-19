@@ -4,7 +4,7 @@
 
 <p align="left">
   <strong>AI Researcher | MS in Data Science (NUCES)</strong><br>
-  Specializing in Trustworthy AI, Uncertainty Quantification, and Computer Vision.
+  Specializing in Trustworthy AI, Uncertainty Quantification, Computer Vision, and NLP.
 </p>
 
 ### 🔬 Research Interests
