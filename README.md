@@ -1,21 +1,28 @@
 <h2 align="left">
-
-Hi 🤗
-
-My name is Muhammad Emmad Siddiqui.
-
-<strong>AI Researcher</strong> | MS in Data Science from NUCES
-
+  Hi there! I'm Muhammad Emmad Siddiqui <img src="https://media.giphy.com/media/hvRJCLzPaCUEo/giphy.gif" width="25px">
 </h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadEmmadSiddiqui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com/?user=MuhammadEmmadSiddiqui&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadEmmadSiddiqui&locale=en&hide_title=false&layout=compact&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<p align="left">
+  <strong>AI Researcher | MS in Data Science (NUCES)</strong><br>
+  Specializing in Trustworthy AI, Uncertainty Quantification, and Computer Vision.
+</p>
 
-<br />
+### 🔬 Research Interests
+* **Trustworthy AI:** Focused on Uncertainty Quantification, Risk-Aware Decision-Making, and Conformal Prediction.
 
+---
+
+### 📊 GitHub Profile Overview
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadEmmadSiddiqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadEmmadSiddiqui&theme=dracula" height="150" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadEmmadSiddiqui&layout=compact&theme=dracula&langs_count=8" height="150" />
+</p>
+
+---
+
+### 🐍 Contribution Journey
 <div align="center">
   <img src="https://raw.githubusercontent.com/MuhammadEmmadSiddiqui/MuhammadEmmadSiddiqui/output/github-snake-dark.svg" alt="snake animation" />
 </div>
