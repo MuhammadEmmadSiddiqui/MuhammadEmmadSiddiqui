@@ -8,7 +8,9 @@
 </p>
 
 ### 🔬 Research Interests
-* **Trustworthy AI:** Focused on Uncertainty Quantification, Risk-Aware Decision-Making, and Conformal Prediction.
+* **Trustworthy AI:** Uncertainty Quantification, Conformal Prediction, and OOD Generalization.
+* **Robustness Paradigms:** Adversarial attacks, Probabilistic Robustness, and non-parametric evaluations.
+* **Threat Mitigation:** Identifying and defending against Evasion Attacks, Backdoors, Model Jailbreaks, and Prompt Injections.
 
 ---
 
