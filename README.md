@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi there! I'm Muhammad Emmad Siddiqui <img src="https://media.giphy.com/media/hvRJCLzPaCUEo/giphy.gif" width="25px">
+  Hi there! I'm Muhammad Emmad Siddiqui <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="25px">
 </h2>
 
 <p align="left">
