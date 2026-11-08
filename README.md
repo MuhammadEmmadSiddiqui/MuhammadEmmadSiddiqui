@@ -3,14 +3,16 @@
 </h2>
 
 <p align="left">
-  <strong>AI Researcher | MS in Data Science (NUCES)</strong><br>
+  <strong>AI Researcher | MS in Data Science (FAST NUCES)</strong><br>
   
 </p>
 
 ### 🔬 Research Interests
 * **Trustworthy AI:** Uncertainty Quantification, Conformal Prediction, and OOD Generalization.
 * **Robustness Paradigms:** Adversarial attacks, Probabilistic Robustness, and non-parametric evaluations.
+<!-- 
 * **Threat Mitigation:** Identifying and defending against Evasion Attacks, Backdoors, Model Jailbreaks, and Prompt Injections.
+-->
 
 ---
 
