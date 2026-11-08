@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi there! I'm Muhammad Emmad Siddiqui <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk3b2w3aGhvamgzcTRyZ2wxOGRnYXZxcG8weW1sejA4bGt4ZzUyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="25px">
+  Hi there! I'm Muhammad Emmad Siddiqui <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk3b2w3aGhvamgzcTRyZ2wxOGRnYXZxcG8weW1sejA4bGt4ZzUyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="50px">
 </h2>
 
 <p align="left">
